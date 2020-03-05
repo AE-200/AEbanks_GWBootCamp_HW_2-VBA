@@ -1,3 +1,1 @@
-# AEbanks_GWBootCamp_HW_2-VBA
-HW #2 VBA
-This is the second homework featuring VBA scripts for common tasks 
+This is a collection providing solutions for common tasks done using advanced VBA programs
